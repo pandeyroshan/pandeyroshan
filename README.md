@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">I love doing the software engineering work, it keeps me engaged and away from anxiety, depression and existential crisis.</h3>
+<h3 align="center">I love doing the software engineering work..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyroshan&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyroshan" /> </p>
 
